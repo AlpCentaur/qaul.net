@@ -60,6 +60,12 @@ Documentation
 * [Add a configuration template for your wifi mesh community](GUI/www/community-templates/)
 
 
+Code of conduct
+---------------
+
+Anyone who interacts with qaul.net in any space, including but not limited to this GitHub repository, must follow our [code of conduct](CODE_OF_CONDUCT.md).
+
+
 License
 -------
 
